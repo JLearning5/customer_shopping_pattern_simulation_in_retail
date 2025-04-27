@@ -1,0 +1,1 @@
+# customer_shopping_pattern_simulation_in_retail
